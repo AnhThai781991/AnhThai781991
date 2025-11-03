@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @AnhThai781991
-- 👀 I’m interested in video games, data, supply chain
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on R
-- 📫 How to reach me via email: Anhthai.nhs@gmail.com
-- 😄 Pronouns: A N H T H A I
-- ⚡ Fun fact: ...
+# 👋 Xin chào, mình là Nguyễn Anh Thái
 
-<!---
-AnhThai781991/AnhThai781991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Logistics](https://img.shields.io/badge/Logistics-007ACC?style=for-the-badge)
+![IELTS 6.0](https://img.shields.io/badge/IELTS-6.0-green?style=for-the-badge)
+
+## 🚀 Giới thiệu
+
+Chuyên gia Logistics & Phân tích dữ liệu với kinh nghiệm quản lý vận hành cho UPS, Avery Dennison, Nguyễn Kim...
+Đam mê Python, Dashboard, Web Scraping. Chủ trì >10 dự án tối ưu hoá, tiết kiệm chi phí 50k USD/năm, KPI giao hàng đạt 95%.
+
+---
+
+## 🎒 Một số dự án nổi bật
+
+- [Dashboard dự báo giá dầu](https://anhthai781991.github.io)
+- [Python Công cụ tính chi phí logistics](https://github.com/Anhthai1991/logistics-cost-analysis)
+- [Portfolio site](https://anhthai1991.github.io)
+- [Quản lý thuế cá nhân Việt Nam](https://github.com/Anhthai1991/vietnam-tax-calc)
+
+---
+
+## 📈 Minh hoạ & Chứng chỉ
+
+<img src="https://anhthai781991.github.io/images/dashboard-oil-price.png" alt="Dashboard Dự báo giá dầu" width="600"/>
+<img src="https://raw.githubusercontent.com/Anhthai1991/Profile/main/cert-ielts.png" alt="IELTS Certificate" width="300"/>
+
+---
+
+## 📫 Liên hệ
+**Email:** anhthai.nhs@gmail.com • **LinkedIn:** [Nguyen Anh Thai](https://www.linkedin.com/in/nguyen-anh-thai-1991/)
