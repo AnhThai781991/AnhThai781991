@@ -13,7 +13,7 @@ Chuyên gia Logistics & Phân tích dữ liệu với kinh nghiệm quản lý v
 
 ## 🎒 Một số dự án nổi bật
 
-- [Thông tin giá xăng dầu tại Việt Nam](https://anhthai1991.github.io/fuel-VN-price)
+- [Thông tin giá xăng dầu tại Việt Nam](https://github.com/Anhthai1991/Fuel-VN-price)
 - [Công cụ tính thuế thu nhập cá nhân Việt Nam](https://anhthai1991.github.io/Personal-tax)
 
 ---
