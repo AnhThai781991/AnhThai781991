@@ -13,10 +13,8 @@ Chuyên gia Logistics & Phân tích dữ liệu với kinh nghiệm quản lý v
 
 ## 🎒 Một số dự án nổi bật
 
-- [Dashboard dự báo giá dầu](https://anhthai781991.github.io)
-- [Python Công cụ tính chi phí logistics](https://github.com/Anhthai1991/logistics-cost-analysis)
-- [Portfolio site](https://anhthai1991.github.io)
-- [Quản lý thuế cá nhân Việt Nam](https://github.com/Anhthai1991/vietnam-tax-calc)
+- [Thông tin giá xăng dầu tại Việt Nam](https://anhthai1991.github.io/fuel-VN-price)
+- [Công cụ tính thuế thu nhập cá nhân Việt Nam](https://anhthai1991.github.io/Personal-tax)
 
 ---
 
@@ -28,4 +26,4 @@ Chuyên gia Logistics & Phân tích dữ liệu với kinh nghiệm quản lý v
 ---
 
 ## 📫 Liên hệ
-**Email:** anhthai.nhs@gmail.com • **LinkedIn:** [Nguyen Anh Thai](https://www.linkedin.com/in/nguyen-anh-thai-1991/)
+**Email:** anhthai.nhs@gmail.com • **LinkedIn:** [Nguyen Anh Thai](https://www.linkedin.com/in/thai-nguyen-0b93b1107/)
